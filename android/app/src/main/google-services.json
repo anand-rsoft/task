@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "705808177871",
+    "project_id": "anand-task",
+    "storage_bucket": "anand-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705808177871:android:fac3fa15da0037308d35ba",
+        "android_client_info": {
+          "package_name": "com.anand.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705808177871-9oi87sk7jgl8ng85qm95vvkf1qo0uabb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anand.task",
+            "certificate_hash": "7bc0e400cc708083d52e831e23cb4dfa053a2f16"
+          }
+        },
+        {
+          "client_id": "705808177871-gvtqbbqevug0be08ba45g0jud3o8l812.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZaicTEraNB4b7q4cH5bQ39chuh3AlQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705808177871-gvtqbbqevug0be08ba45g0jud3o8l812.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
